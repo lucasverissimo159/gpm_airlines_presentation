@@ -1,9 +1,5 @@
 # Suggested Repository Description / Descrição Sugerida para o Repositório
 
-> **English:** Interactive presentation and maintenance analytics dashboard for GPM Airlines, detailing fleet reliability, maintenance indicators (MTBF, MTTR, Availability), and strategic action plans.
->
-> **Português:** Apresentação interativa e dashboard de indicadores de manutenção da GPM Airlines, detalhando confiabilidade da frota, métricas operacionais (MTBF, MTTR, Disponibilidade) e plano de ação estratégico.
-
 ---
 
 # English Version
